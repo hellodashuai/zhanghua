@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="hm_zuoye_66.hm_zuoye_2.esst_Add" />
+          <option value="hm_zuoye_66.hm_zuoye_2.*" />
+          <option value="day06.hm_01.unittest" />
+          <option value="v4.tpshop_login.LoginProxy" />
+          <option value="v6.base_page.Driverutil" />
+          <option value="v6.tpshop_login_v.LoginProxy" />
+          <option value="v6_fuxi.tpshop_reg.RegProxy" />
+          <option value="v6_fuxi.tpshop_reg.reg_page" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
